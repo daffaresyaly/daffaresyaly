@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Daffa Ananda Pratama Resyaly**, a graduate in **Informatics Engineering** from  
+I'm **Daffa Ananda Pratama Resyaly**, a graduate in **Computer Science** from  
 **Bandung Institute of Technology (ITB)**.
 
 <img src="https://upload.wikimedia.org/wikipedia/id/9/95/Logo_Institut_Teknologi_Bandung.png" alt="ITB Logo" width="120" />
