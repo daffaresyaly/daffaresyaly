@@ -31,8 +31,8 @@ I'm **Daffa Ananda Pratama Resyaly**, a graduate in **Computer Science** from
 
 ### 📊 GitHub Stats (Personal)
 
-[![Daffa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=slarkdarr&show_icons=true&theme=radical)](https://github.com/slarkdarr)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=slarkdarr&layout=compact&theme=radical)](https://github.com/slarkdarr)
+[![Daffa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daffaresyaly&show_icons=true&theme=radical)](https://github.com/daffaresyaly)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daffaresyaly&layout=compact&theme=radical)](https://github.com/daffaresyaly)
 
 ---
 
